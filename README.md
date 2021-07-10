@@ -1,6 +1,6 @@
 # gitPrac
 
-## Git Branch 사용법
+### Git Branch 사용법
 
 1. Branch 생성 (기능단위로 작명)
 2. 작업
